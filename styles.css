@@ -70,6 +70,7 @@ div {
             }
 
             article {
+            overflow: scroll;
             float: left;
             padding: 20px;
             color: white;
@@ -103,4 +104,6 @@ footer {
   padding: 10px;
   text-align: center;
   color: white;
+  max-width: 100%;
+
 }
