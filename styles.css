@@ -107,3 +107,7 @@ footer {
   max-width: 100%;
 
 }
+/* Clear the footer*/
+footer.clear {
+    clear:both;
+}
